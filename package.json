@@ -1,0 +1,24 @@
+{
+  "name": "streams-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matg0mes/js-streams-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matg0mes/js-streams-poc/issues"
+  },
+  "homepage": "https://github.com/matg0mes/js-streams-poc#readme",
+  "devDependencies": {
+    "nodemon": "2"
+  }
+}
